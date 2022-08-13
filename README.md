@@ -1,1 +1,1 @@
-# LEDeez
+Ecommerce website example project
